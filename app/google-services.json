@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793481841346",
+    "project_id": "test-c4879",
+    "storage_bucket": "test-c4879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793481841346:android:357bd44e8906a869dd095b",
+        "android_client_info": {
+          "package_name": "hadj.tn.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793481841346-9vd01t9m4gkqr5lj5sb0ld9tm4u1u4jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFfzd1OGKOXVEO9judsOYx26RO6bVQmXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793481841346-9vd01t9m4gkqr5lj5sb0ld9tm4u1u4jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
